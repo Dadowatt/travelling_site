@@ -35,6 +35,10 @@ header {
 .logo span {
     color: #F6D238;
 }
+.icons span{
+    margin-right: 5px;
+    color: var(--couleur-principal);
+}
 
 ul {
     display: flex;
